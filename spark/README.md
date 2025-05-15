@@ -87,7 +87,7 @@ spark-submit \
 /spark/project/spark-project.py"
 ```
 ## Database structure
-![](PhamMaiThienBao_K12_LV2_project_02/img/dec_spark.png)
+![](/img/dec_spark.png)
 
 ## Link tham khảo
 
