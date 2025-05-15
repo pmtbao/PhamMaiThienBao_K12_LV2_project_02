@@ -86,6 +86,8 @@ spark-submit \
 --archives pyspark_venv.tar.gz#environment \
 /spark/project/spark-project.py"
 ```
+## Database structure
+![](img/dec_spark.png)
 
 ## Link tham khảo
 
