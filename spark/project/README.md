@@ -88,7 +88,6 @@ spark-submit \
 ```
 
 ## Database structure
-
 ![](img/dec_spark.png)
 
 ## Link tham khảo
