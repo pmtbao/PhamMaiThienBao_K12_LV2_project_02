@@ -87,6 +87,10 @@ spark-submit \
 /spark/project/spark-project.py"
 ```
 
+## Database structure
+
+![](/img/dec_spark.png)
+
 ## Link tham khảo
 
 [Python Package Management](https://spark.apache.org/docs/latest/api/python/user_guide/python_packaging.html)
